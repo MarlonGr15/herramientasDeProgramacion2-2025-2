@@ -1,33 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\",
+  "WorkspaceRootPath": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|c:\\users\\usuario\\desktop\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\model\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|d:\\documentos\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\servicios\\activateguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\servicios\\activateguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|c:\\users\\usuario\\desktop\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\model\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|d:\\documentos\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\servicios\\createguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\servicios\\createguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|c:\\users\\usuario\\desktop\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\model\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|d:\\documentos\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\ports\\guestport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\ports\\guestport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|c:\\users\\usuario\\desktop\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\model\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|d:\\documentos\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\servicios\\createpartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\servicios\\createpartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|d:\\documentos\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\ports\\partnerport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\ports\\partnerport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|c:\\users\\usuario\\desktop\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|c:\\users\\usuario\\desktop\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|c:\\users\\usuario\\desktop\\herramientasdeprogramacion2-2025-2\\clubsocialexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D64CE9F8-CAE9-42A3-BB50-C4F760AA11A1}|ClubSocialExample.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -38,97 +58,158 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InvoiceDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\InvoiceDetail.cs",
-              "RelativeDocumentMoniker": "domain\\model\\InvoiceDetail.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\InvoiceDetail.cs",
-              "RelativeToolTip": "domain\\model\\InvoiceDetail.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:01:29.58Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InvoiceHeader.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\InvoiceHeader.cs",
-              "RelativeDocumentMoniker": "domain\\model\\InvoiceHeader.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\InvoiceHeader.cs",
-              "RelativeToolTip": "domain\\model\\InvoiceHeader.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ActivateGuest.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\servicios\\ActivateGuest.cs",
+              "RelativeDocumentMoniker": "domain\\servicios\\ActivateGuest.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\servicios\\ActivateGuest.cs",
+              "RelativeToolTip": "domain\\servicios\\ActivateGuest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T23:59:20.376Z",
+              "WhenOpened": "2025-08-28T04:47:03.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Guest.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Guest.cs",
-              "RelativeDocumentMoniker": "domain\\model\\Guest.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Guest.cs",
-              "RelativeToolTip": "domain\\model\\Guest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Title": "GuestPort.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\ports\\GuestPort.cs",
+              "RelativeDocumentMoniker": "domain\\ports\\GuestPort.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\ports\\GuestPort.cs",
+              "RelativeToolTip": "domain\\ports\\GuestPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T23:56:19.266Z",
+              "WhenOpened": "2025-08-28T04:37:20.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Partner.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Partner.cs",
-              "RelativeDocumentMoniker": "domain\\model\\Partner.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Partner.cs",
-              "RelativeToolTip": "domain\\model\\Partner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreateGuest.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\servicios\\CreateGuest.cs",
+              "RelativeDocumentMoniker": "domain\\servicios\\CreateGuest.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\servicios\\CreateGuest.cs",
+              "RelativeToolTip": "domain\\servicios\\CreateGuest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T23:49:50.274Z",
+              "WhenOpened": "2025-08-28T04:34:02.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\User.cs",
-              "RelativeDocumentMoniker": "domain\\model\\User.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\User.cs",
-              "RelativeToolTip": "domain\\model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Title": "PartnerPort.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\ports\\PartnerPort.cs",
+              "RelativeDocumentMoniker": "domain\\ports\\PartnerPort.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\ports\\PartnerPort.cs",
+              "RelativeToolTip": "domain\\ports\\PartnerPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T23:46:39.998Z",
+              "WhenOpened": "2025-08-28T04:27:10.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Person.cs",
-              "RelativeDocumentMoniker": "domain\\model\\Person.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Person.cs",
-              "RelativeToolTip": "domain\\model\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CreatePartner.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\servicios\\CreatePartner.cs",
+              "RelativeDocumentMoniker": "domain\\servicios\\CreatePartner.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\servicios\\CreatePartner.cs",
+              "RelativeToolTip": "domain\\servicios\\CreatePartner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T23:46:23.218Z",
+              "WhenOpened": "2025-08-27T23:34:49.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "domain\\model\\InvoiceDetail.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\InvoiceDetail.cs",
+              "RelativeToolTip": "domain\\model\\InvoiceDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:01:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceHeader.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\InvoiceHeader.cs",
+              "RelativeDocumentMoniker": "domain\\model\\InvoiceHeader.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\InvoiceHeader.cs",
+              "RelativeToolTip": "domain\\model\\InvoiceHeader.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:59:20.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Guest.cs",
+              "RelativeDocumentMoniker": "domain\\model\\Guest.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Guest.cs",
+              "RelativeToolTip": "domain\\model\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:56:19.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Partner.cs",
+              "RelativeDocumentMoniker": "domain\\model\\Partner.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Partner.cs",
+              "RelativeToolTip": "domain\\model\\Partner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:49:50.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\User.cs",
+              "RelativeDocumentMoniker": "domain\\model\\User.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\User.cs",
+              "RelativeToolTip": "domain\\model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:46:39.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Person.cs",
+              "RelativeDocumentMoniker": "domain\\model\\Person.cs",
+              "ToolTip": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\domain\\model\\Person.cs",
+              "RelativeToolTip": "domain\\model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:46:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\Form1.cs",
+              "DocumentMoniker": "D:\\Documentos\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\herramientasDeProgramacion2-2025-2\\ClubSocialExample\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T23:42:55.366Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-20T23:42:55.366Z"
             }
           ]
         }

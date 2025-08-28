@@ -52,6 +52,11 @@
     <Compile Include="domain\model\Partner.cs" />
     <Compile Include="domain\model\Person.cs" />
     <Compile Include="domain\model\User.cs" />
+    <Compile Include="domain\ports\GuestPort.cs" />
+    <Compile Include="domain\ports\PartnerPort.cs" />
+    <Compile Include="domain\servicios\ActivateGuest.cs" />
+    <Compile Include="domain\servicios\CreateGuest.cs" />
+    <Compile Include="domain\servicios\CreatePartner.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
